@@ -1,5 +1,9 @@
 Using peek and poke to conditionally sum slots in an array
 
+github
+https://tinyurl.com/y57ksmzd
+https://github.com/rogerjdeangelis/utl-using-peek-and-poke-to-conditionally-sum-subsets-of-an-array
+
 This fast functionality is probably underused.
 
 Basically this code mimics assembler instruction 'movelong'.
